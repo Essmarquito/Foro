@@ -49,7 +49,7 @@ Este proyecto es el resultado de meses de esfuerzo y dedicación. ¡Estoy emocio
 
 - Si deseas explorar el proyecto o contribuir, siéntete libre de clonar el repositorio.
    ```bash
-  https://github.com/Essmarquito/Foro).git
+ https://github.com/Essmarquito/Foro
    ```
 - Cualquier sugerencia o retroalimentación será bien recibida.
 
